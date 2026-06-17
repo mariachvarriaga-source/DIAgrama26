@@ -1,6 +1,6 @@
-Diagramas_DER_Y_MR
+#Diagramas_DER_Y_MR
 
-AUTHOR
+#AUTHOR
 
 María José Chavarriaga
 Julio Ariza
